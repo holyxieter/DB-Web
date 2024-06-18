@@ -1,7 +1,7 @@
 # DB-Web
 BJTU 软件学院 数据库实训Web项目
 ### 项目简介
-本项目是一个外卖点餐系统，涵盖用户点餐、商家后台管理以及骑手接单功能。前端技术栈包括HTML、CSS和JavaScript；后端使用Python，数据库为MySQL，框架为Flask。
+本项目是一个简单的外卖点餐系统，仅实现用户点餐、商家后台管理以及骑手接单功能。前端技术栈包括HTML、CSS和JavaScript；后端使用Python，数据库为MySQL，框架为Flask。
 ### 项目结构
 - app.py: 项目启动脚本
 - templates文件夹:
